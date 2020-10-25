@@ -1,0 +1,46 @@
+module homwork8 {
+}public class Subsciber_odd {
+	SubScriber(
+	count=0;
+	int odd =0;
+	if num %3==0;
+	odd=+1;
+	if count==21;
+	System.out.printlnl("SubscriberOdds: Event is odd:(odd)") 
+	return true
+			eles return false
+			
+	)
+
+}
+
+
+module homwork8 {
+}public class Subsciber_even {
+	SubScriber(
+	count=0;
+	int odd =0;
+	if num %2==0;
+	odd=+1;
+	if count>14;
+	System.out.printlnl("SubscriberOdds: Event is even:(even)") 
+	return true
+			eles return false	
+	)
+
+}
+module homwork8 {
+}public class Subsciber_three {
+	SubScriber(
+	count=0;
+	int three =0;
+	if num %1==0;
+	odd=+1;
+	if count<=10;
+	System.out.printlnl("Subscriberthrees: Event is disvisible by3:(three)") 
+	return true
+			eles return false
+			
+	)
+
+}
